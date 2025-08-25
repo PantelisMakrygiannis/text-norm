@@ -1,0 +1,101 @@
+input,expected,got,complexity,strategy,pass
+Endo Anaconda/Balts Nill,Endo Anaconda/Balts Nill,Endo Anaconda/Balts Nill,LOW,low,True
+Jessica Curry,Jessica Curry,Jessica Curry,MEDIUM,medium,True
+Peter Kelly/Andy Monaghan/Jill O'Sullivan,Peter Kelly/Andy Monaghan/Jill O'Sullivan,Peter Kelly/Andy Monaghan/Jill O'Sullivan,MEDIUM,medium,True
+Thomas Bergersen/Nick Phoenix,Thomas Bergersen/Nick Phoenix,Thomas Bergersen/Nick Phoenix,MEDIUM,medium,True
+Candelaria Tojin,Candelaria Tojin,Candelaria Tojin,MEDIUM,medium,True
+传统音乐 & 李富兴,,李富兴,MEDIUM,medium,False
+Rob Hubbard,Rob Hubbard,Rob Hubbard,MEDIUM,medium,True
+Sony Assla/V. Kainth,,V. Kainth,LOW,low,False
+Salomon Hermann Mosenthal/Anton Rubinstein,Salomon Hermann Mosenthal/Anton Rubinstein,Salomon Hermann Mosenthal/Anton Rubinstein,MEDIUM,medium,True
+Todd Christensen,Todd Christensen,Todd Christensen,MEDIUM,medium,True
+Black Menace,Black Menace,Black Menace,LOW,low,True
+Zakir Khan Barelvi/Kishor Malhotra,Zakir Khan Barelvi/Kishor Malhotra,Khan Barelvi/Kishor Malhotra,MEDIUM,medium,False
+Danny White/Darren White/B. Trzetrzelewska,Danny White/Darren White/B. Trzetrzelewska,Danny White/Darren White/B. Trzetrzelewska,LOW,low,True
+Skully Wit Da k & Pdg Jugg,Skully Wit Da k/Pdg Jugg,Skully Wit Da k/Pdg Jugg,LOW,low,True
+Marco Hietala/Tuomas Holopainen,Marco Hietala/Tuomas Holopainen,Marco Hietala/Tuomas Holopainen,MEDIUM,medium,True
+Deborah Lurie,Deborah Lurie,Deborah Lurie,MEDIUM,medium,True
+David Sheats/Antwan Patton/Earthtone III/Neal H. Pogue/Andre Benjamin,David Sheats/Antwan Patton/Earthtone III/Neal H. Pogue/Andre Benjamin,David Sheats/Antwan Patton/Earthtone III/Neal H. Pogue/Andre Benjamin,LOW,low,True
+Rosbel Ruiz/David Lee Garza,Rosbel Ruiz/David Lee Garza,Rosbel Ruiz/David Lee Garza,LOW,low,True
+Arda Unverdi,Arda Unverdi,Arda Unverdi,MEDIUM,medium,True
+Matthijs Aukema,Matthijs Aukema,Matthijs Aukema,MEDIUM,medium,True
+Nkosi Moyo,Nkosi Moyo,Moyo,MEDIUM,medium,False
+Alfredo Hays Cruz,Alfredo Hays Cruz,Alfredo Hays Cruz,MEDIUM,medium,True
+"Stevens IV, Quincey Hanley & Kenneth Blume III",Stevens IV/Quincey Hanley/Kenneth Blume III,Stevens IV/Quincey Hanley/Kenneth Blume III,MEDIUM,medium,True
+Trần Tiến,,Trần Tiến,MEDIUM,medium,False
+Romario Coleman,Romario Coleman,Romario Coleman,MEDIUM,medium,True
+"Webb Wilder/New West Records, LLC",Webb Wilder,Webb Wilder,LOW,low,True
+Sergio Kramer,Sergio Kramer,Sergio Kramer,MEDIUM,medium,True
+"SCELSA, GREGORY PAUL/TRADITIONAL (PD)",SCELSA/GREGORY/PAUL,SCELSA/GREGORY PAUL/TRADITIONAL,HIGH,high,False
+C GJEDREM TORE/CA HAAVIK PETTER/CA OMAR NASRA ALI/PA OST&KJEX,GJEDREM TORE/HAAVIK PETTER/OMAR NASRA ALI/OST&KJEX,KJEX,MEDIUM,medium,False
+Jared Gutstadt/Jesse Siebenberg/Universal Music Publishing,Jared Gutstadt/Jesse Siebenberg,Jared Gutstadt/Jesse Siebenberg,LOW,low,True
+Soziedad Alkoholika,Soziedad Alkoholika,Soziedad Alkoholika,LOW,low,True
+Max Forest/Veronique Culliford/Thierry Culliford/J.F. Maljean,Max Forest/Veronique Culliford/Thierry Culliford/J.F. Maljean,Max Forest/Veronique Culliford/Thierry Culliford/J.F. Maljean,LOW,low,True
+Veeze,Veeze,Veeze,LOW,low,True
+Connor Musarra,Connor Musarra,Connor Musarra,MEDIUM,medium,True
+Yuno Miles,Yuno Miles,Miles,MEDIUM,medium,False
+Kazuo/illrain/Leon Fanourakis,Kazuo/illrain/Leon Fanourakis,Kazuo/illrain/Leon Fanourakis,LOW,low,True
+David Line/Kevin Hendrick/Charles Macleod/Caroline Banks,David Line/Kevin Hendrick/Charles Macleod/Caroline Banks,David Line/Kevin Hendrick/Charles Macleod/Caroline Banks,LOW,low,True
+Nestor Daniel Hoyer,Nestor Daniel Hoyer,Daniel Hoyer,MEDIUM,medium,False
+Federico Leonel Lassalle,Federico Leonel Lassalle,Federico Leonel Lassalle,MEDIUM,medium,True
+Derrick Dixon,Derrick Dixon,Derrick Dixon,MEDIUM,medium,True
+Jürgen Engler/Ralf Dörper/Lee Altus,Jürgen Engler/Ralf Dörper/Lee Altus,Jürgen Engler/Ralf Dörper/Lee Altus,LOW,low,True
+Hayden Buck Jones,Hayden Buck Jones,Hayden Buck Jones,MEDIUM,medium,True
+Albéric Magnard,Albéric Magnard,Albéric Magnard,MEDIUM,medium,True
+CA ASSATOURIAN ANDREW ROUBIK/CA MCAFEE ERIC D/CA ORROSQUIETA ERICK/PA DEORRO & DIRTY AUDIO FEAT. I-EZ,,CA ASSATOURIAN ANDREW ROUBIK/CA MCAFEE ERIC D/CA ORROSQUIETA ERICK/PA DEORRO,HIGH,high,False
+snny,snny,snny,LOW,low,True
+Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay,Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay,Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay,LOW,low,True
+WunTayk Timmy,WunTayk Timmy,WunTayk Timmy,LOW,low,True
+Joni Mitchell,Joni Mitchell,Joni Mitchell,MEDIUM,medium,True
+Д.Логинов/Multiza Distribution/Ляля Размахова,,Multiza Distribution/Ляля Размахова,MEDIUM,medium,False
+cesar pozos & alejandro coronado,cesar pozos/alejandro coronado,,MEDIUM,medium,False
+Bruce E. Johnson,Bruce E. Johnson,Bruce E. Johnson,MEDIUM,medium,True
+Italo Montemezzi/Sem Benelli,,Italo Montemezzi/Sem Benelli,LOW,low,False
+Patrick Saint-Eloi,Patrick Saint-Eloi,,MEDIUM,medium,False
+Pete Shelley/Copyright Control,Pete Shelley,Pete Shelley,LOW,low,True
+Hector Berlioz,Hector Berlioz,Hector Berlioz,MEDIUM,medium,True
+Bruce Fingers/Joshua Atchley/Billie Ray Fingers,Bruce Fingers/Joshua Atchley/Billie Ray Fingers,Bruce Fingers/Joshua Atchley/Billie Ray Fingers,LOW,low,True
+"<Unknown>/Conley, Ronald Kirstein",Conley/Ronald/Kirstein,Conley/Ronald Kirstein,LOW,low,False
+Hiyakiporinekisesanamope Choir,Hiyakiporinekisesanamope Choir,Hiyakiporinekisesanamope Choir,MEDIUM,medium,True
+Joe Zawinul,Joe Zawinul,Joe Zawinul,MEDIUM,medium,True
+Rony Ordóñez López & juan luis tzoy chic,Rony Ordóñez López/juan luis tzoy chic,juan luis tzoy,MEDIUM,medium,False
+André/Felipe,André/Felipe,André/Felipe,LOW,low,True
+Jon Brookes/Tim Burgess/Martin Blunt/Mark Collins/Rob Collins,,Jon Brookes/Tim Burgess/Martin Blunt/Mark Collins/Rob Collins,LOW,low,False
+Adem Ciwan,Adem Ciwan,Adem Ciwan,MEDIUM,medium,True
+Hadaiyah Bey/Copyright Control,Hadaiyah Bey,Hadaiyah Bey,LOW,low,True
+Victor Spinelli,Victor Spinelli,Victor Spinelli,MEDIUM,medium,True
+Milos Grubor/Luka Mišnić/Pavle Jankovic/Bogdan Stojiljkovic/Bigru i Paja Kratak Label,Milos/Grubor/Luka/Mišnić/Pavle/Jankovic/Bogdan/Stojiljkovic/Bigru/i/Paja/Kratak,Milos Grubor/Luka Mišnić/Pavle Jankovic/Bogdan Stojiljkovic/Bigru i Paja Kratak Label,LOW,low,False
+R. Stewart/D. Ellington,R. Stewart/D. Ellington,R. Stewart/D. Ellington,LOW,low,True
+Elisa Lindström,Elisa Lindström,Elisa Lindström,MEDIUM,medium,True
+Roderick Tate/Kenneth Daniels/Shekinah Daniels/Big Headed Bros LLC/GoodVibes Productions,Roderick Tate/Kenneth Daniels/Shekinah Daniels/GoodVibes,Roderick Tate/Kenneth Daniels/Shekinah Daniels/GoodVibes Productions,LOW,low,False
+Nguyễn Nhất Huy,,,MEDIUM,medium,True
+Kris Barras,Kris Barras,Kris Barras,MEDIUM,medium,True
+Giuseppe Verdi/Francesco Maria Piave,Giuseppe Verdi/Francesco Maria Piave,Giuseppe Verdi/Francesco Maria Piave,LOW,low,True
+Shankar Prajapati,Shankar Prajapati,Shankar Prajapati,MEDIUM,medium,True
+Tim Pagnotta,Tim Pagnotta,Tim Pagnotta,MEDIUM,medium,True
+luiz claudio costa santanna,luiz claudio costa santanna,luiz claudio costa,MEDIUM,medium,False
+Malik Grimes,Malik Grimes,Malik Grimes,MEDIUM,medium,True
+Pi’erre Bourne,Pi’erre Bourne,Pi’erre Bourne,LOW,low,True
+Aaron Albert Srdoc,Aaron Albert Srdoc,Aaron Albert Srdoc,MEDIUM,medium,True
+Reinhard Mey,Reinhard Mey,Reinhard Mey,MEDIUM,medium,True
+Herbert Stothart/Harold Arlen,Herbert Stothart/Harold Arlen,Herbert Stothart/Harold Arlen,MEDIUM,medium,True
+Alemany/Alexander de Jesus Alcalá,Alemany/Alexander de Jesus Alcalá,Alemany/Alexander de Jesus Alcalá,LOW,low,True
+Gonzalo Hermosa,Gonzalo Hermosa,Gonzalo Hermosa,MEDIUM,medium,True
+Olaf Dubber/Copyright Control/Alexander Grosskord,Olaf Dubber/Alexander Grosskord,Olaf Dubber/Alexander Grosskord,LOW,low,True
+Kisan Thapa/Thaneshwor Gautam,Kisan Thapa/Thaneshwor Gautam,Kisan Thapa/Thaneshwor Gautam,MEDIUM,medium,True
+ALFRED LLOYD CAMPBELL,ALFRED LLOYD CAMPBELL,ALFRED LLOYD CAMPBELL,MEDIUM,medium,True
+Jemel Yarbrough & William Pope,,Jemel Yarbrough/William Pope,MEDIUM,medium,False
+"Trần Trung Hiếu, Nguyễn Trần Tấn Huy, Nguyễn Phước Thành, Đặng Quang Duy & Lê Trường An",,Trần Trung Hiếu/Phước Thành/Đặng Quang Duy,MEDIUM,medium,False
+G.F. Daumer/Howard H. Scott/Georg Friedrich Daumer,,G.F. Daumer/Howard H. Scott/Georg Friedrich Daumer,LOW,low,False
+A KING JESSE/AR HILL ROBERT/AR KING JESSE/AR PAERSSINEN TATU JOHANNES/C HILL ROBERT/PA ROBBIE HILL & THE BLUE 62S,KING/JESSE/AR/HILL/ROBERT/AR/KING/JESSE/AR/PAERSSINEN/TATU/JOHANNES/C/HILL/ROBERT/P/ROBBIE/HILL/&/THE/BLUE/62S,AR HILL/AR KING,MEDIUM,medium,False
+Simon Maguire,Simon Maguire,Simon Maguire,MEDIUM,medium,True
+Björn Ulvaeus/Benny Andersson/Agnetha Fältskog/Anni-Frid Lyngstad,Björn Ulvaeus/Benny Andersson/Agnetha Fältskog/Anni-Frid Lyngstad,Björn Ulvaeus/Benny Andersson/Agnetha Fältskog,LOW,low,False
+DANGUR ITAY,,DANGUR ITAY,LOW,low,False
+方文山/周杰倫,,方文山/周杰倫,LOW,low,False
+SAVANA SANTOS,SAVANA SANTOS,SAVANA SANTOS,LOW,low,True
+Masafumi Takada,Masafumi Takada,Masafumi Takada,MEDIUM,medium,True
+Alan Read,Alan Read,Alan Read,MEDIUM,medium,True
+Amanda Mackinnon Palmer,Amanda Mackinnon Palmer,Amanda Mackinnon Palmer,MEDIUM,medium,True
+"Asian Doll,Big Mali",Asian Doll/Big Mali,Asian Doll/Big Mali,LOW,low,True
+Dennis Bonam/White Mantis Publishing/Edition Lemongrass Records,Dennis Bonam,Dennis Bonam,LOW,low,True
+Dorcas Cochran and Lenny Sanders/Unichapell Music Inc (BMI) (c/o Warner Chappell Music Inc),Dorcas Cochran/Lenny Sanders/c/o,Dorcas Cochran/Lenny Sanders,LOW,low,False

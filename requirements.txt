@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=4.30.0
+accelerate
+datasets
+spacy>=3.5.0
+scikit-learn
+pandas
+tqdm

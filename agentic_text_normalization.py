@@ -1,28 +1,3 @@
-"""
-Agentic Text Normalization System (refactored, single-file)
-
-- Complexity analysis via a small Hugging Face LLM with a lightweight prompt (fallback to heuristics).
-- Strategy selection maps complexity -> low|medium|high extraction pipelines.
-- Low complexity: remove known non-writer entities (publishers, orgs) + simple cleanup.
-- Medium complexity: NER (spaCy) + regex-based person / stage-name extraction.
-- High complexity: LLM-based normalization with a few-shot prompt, fallback to Medium if uncertain.
-- Formatter agent: only formatting (comma inversion, casing, de-duplication, joining with "/"). No entity removal.
-- Orchestrator agent: coordinates, picks strategy via mapping.
-
-Run:
-  pip install -r requirements.txt
-  python agentic_text_normalization.py --input "Smith, John/Jane Doe"
-
-Demo:
-  python agentic_text_normalization.py --demo
-
-Evaluate on CSV (expects columns: raw_comp_writers_text, CLEAN_TEXT):
-  python agentic_text_normalization.py --eval_csv data.csv --sample 500
-
-Notes:
-- Dependencies degrade gracefully (spaCy model / transformers optional).
-"""
-
 from __future__ import annotations
 
 import argparse
@@ -51,7 +26,7 @@ KNOWN_NON_WRITER_ENTITIES = [
     r"administration", r"admin", r"sub.?pub", r"production[s]", r"publisher", r"publishers", r"edition",
     r"featuring", r"producer", r"arranger", r"(c)\b", r"\u00a9"
 ]
-# Extra entity names explicitly removed in low complexity (user examples)
+# Extra entity names explicitly removed in low complexity 
 EXPLICIT_REMOVE = [r"ibm", r"sony", r"atv", r"publishers?", r"multiple", r"/ publishers", r"/publisher"]
 
 PERSON_NAME_PATTERNS = [
@@ -309,7 +284,7 @@ class MediumComplexityNERAgent(Agent):
         candidates = split_candidates(text)
         persons: List[str] = []
 
-        # Run spaCy if available; otherwise fall back to heuristics
+        # Run spaCy if available otherwise fall back to heuristics
         if self.nlp is not None and hasattr(self.nlp, "pipe"):
             try:
                 print("Running SpaCy NER on candidates:", candidates)
@@ -550,3 +525,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
